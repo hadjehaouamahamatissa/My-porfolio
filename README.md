@@ -1,21 +1,17 @@
-# 🎯 My profil
+🎯 My profil
 
 .Ceci decrit mon porfolio et les informations qui me tienne
 
-## 🚀 Fonctionnalités
+🚀 Fonctionnalités
 
-- Authentification utilisateur
-- API REST avec Express
-- Interface responsive avec React
-
-## 🛠️ Technologies
+🛠️ Technologies
 
 - React
 - Node.js
 - MongoDB
 - Tailwind CSS
 
-## 📦 Installation
+📦 Installation
 
 ```bash
 git clone https://git@github.com:hadjehaouamahamatissa/My-porfolio.git
